@@ -10,7 +10,4 @@ I’m currently working at a company on projects focused on e-commerce and trans
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meysamjavadzadeh20&theme=dark&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=meysamjavadzadeh20&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
