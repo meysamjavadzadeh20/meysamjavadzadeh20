@@ -79,7 +79,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
           <br>Pandas</td>
     <td align="center" width="116">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" />
           <br>Matplotlib</td>
   </tr>
 </table>
