@@ -28,7 +28,9 @@
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br>Laravel</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=apache" width="48" height="48"/><br>Apache</td>
+<td align="center" width="116">
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" width="48" height="48"/><br>Apache
+</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/><br>Redis</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"/><br>jQuery</td>
@@ -42,7 +44,7 @@
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/><br>Bootstrap</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS3</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
-    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/><br>Github</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub<br>Github</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux</td>
   </tr>
 
