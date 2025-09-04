@@ -42,8 +42,8 @@
     <td align="center" width="116"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" /><br>Apache</td>
     <td align="center" width="116"><a href="#macropower-tech"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></a><br>Python</td>
     <td align="center" width="116">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" />
-          <br>Redis</td>
+            <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/><br>Redis
+</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"/><br>jQuery</td>
      <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
