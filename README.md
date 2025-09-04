@@ -28,10 +28,7 @@
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br>Laravel</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL</td>
-<td align="center" width="116">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
-  <br>Apache
-</td>
+    <td align="center" width="116"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" /><br>Apache</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/><br>Redis</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"/><br>jQuery</td>
