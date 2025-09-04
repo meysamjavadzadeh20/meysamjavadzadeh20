@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <!-- Typing SVG Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Meysam+Javadzadeh!;Backend+Developer+%7C+PHP+%7C+Laravel;Exploring+Deep+Learning+with+Python;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
@@ -62,7 +64,7 @@
     <td align="center" width="116"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="48" height="48"/><br>Scikit-learn</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="48" height="48"/><br>NumPy</td>
     <td align="center" width="116">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
+            <i class="devicon-pandas-plain-wordmark"></i>
           <br>Pandas</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" width="48" height="48"/><br>Matplotlib</td>
   </tr>
