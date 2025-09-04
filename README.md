@@ -1,14 +1,70 @@
-# 💫 About Me:
-I’m currently working at a company on projects focused on e-commerce and transportation. As a backend developer, I specialize in PHP and Eloquent ORM, with extensive experience in MySQL databases. Additionally, I have hands-on experience with JavaScript for frontend tasks.<br><br>These days, I’m diving into the world of deep learning using Python as part of my research for my master’s thesis.<br><br>I’m always eager to expand my knowledge and would love to collaborate on PHP Laravel projects or other exciting backend development initiatives.
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Meysam+Javadzadeh!;Backend+Developer+%7C+PHP+%7C+Laravel;Exploring+Deep+Learning+with+Python;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</p>
 
+---
+
+# 💫 About Me:
+🔹 I’m currently working at a company on projects focused on **e-commerce and transportation**.  
+🔹 As a **backend developer**, I specialize in **PHP & Laravel (Eloquent ORM)** with strong **MySQL** expertise.  
+🔹 I also enjoy working with **JavaScript, jQuery, and Bootstrap** for frontend tasks.  
+🔹 These days, I’m diving into **Deep Learning with Python** for my **Master’s Thesis**.  
+🔹 Always eager to collaborate on exciting **backend projects** and innovative ideas.  
+
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/meysamjavadzadeh20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meysam-javadzadeh/) 
+<p align="left">
+  <a href="https://www.instagram.com/meysamjavadzadeh20/"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.linkedin.com/in/meysam-javadzadeh/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+</p>
+
+---
 
 # 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,apache,redis" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,js" />
+</p>
+
+### 📊 Data Science / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meysamjavadzadeh&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meysamjavadzadeh&theme=radical" height="180"/>
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+great+🚀" alt="Typing SVG" />
+</p>
