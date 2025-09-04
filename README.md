@@ -62,7 +62,7 @@
     <td align="center" width="116"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="48" height="48"/><br>Scikit-learn</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="48" height="48"/><br>NumPy</td>
     <td align="center" width="116">
-            <i class="devicon-pandas-plain-wordmark"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" />
           <br>Pandas</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" width="48" height="48"/><br>Matplotlib</td>
   </tr>
