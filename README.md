@@ -31,6 +31,7 @@
 
 ### 🎨 Frontend
 <p>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,js" />
 </p>
 
