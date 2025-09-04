@@ -21,192 +21,90 @@
 </p>
 
 ---
-<h3 align="left">🏷 Languages and Tools:</h3>
+# 💻 Tech Stack:
+
+### 🛠️ Tech Stack
+
 <table align="center">
   <tr>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" />
+        <br>PHP
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" />
+        <br>Laravel
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+        <br>MySQL
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>NextJS
+        <img src="https://skillicons.dev/icons?i=apache" width="48" height="48" />
+        <br>Apache
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-      <br>NodeJS
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+        <br>JavaScript
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
+        <img src="https://skillicons.dev/icons?i=html,css" width="48" height="48" />
+        <br>HTML & CSS
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=bootstrap,jquery" width="48" height="48" />
+        <br>Bootstrap & jQuery
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+        <br>Python
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" width="48" height="48" />
+        <br>TensorFlow & PyTorch
     </td>
   </tr>
+
   <tr>
     <td align="center" width="116">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="48" height="48"/>
+        <br>Scikit-learn
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cpp" />
-      <br>C++
+        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="48" height="48"/>
+        <br>NumPy
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
-      <br>Selenium
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="48" height="48"/>
+        <br>Pandas
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
-      <br>Tensorflow
-    </td>
+        <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" width="48" height="48"/>
+        <br>Matplotlib
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
-      <br>Pytorch
+        <img src="https://skillicons.dev/icons?i=git,github" width="48" height="48" />
+        <br>Git & GitHub
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
-      <br>Nginx
+        <img src="https://skillicons.dev/icons?i=docker,linux,vscode" width="48" height="48" />
+        <br>Docker / Linux / VSCode
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-      <br>FastAPI
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" />
+        <br>Nginx
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" />
+        <br>AWS
+    </td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" />
+        <br>GraphQL
     </td>
   </tr>
-  <tr>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="116"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-      <br>Rails
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
-    </td>
-        <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
-      </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="Webflow" />
-      <br>Webflow
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
-      <br>Sass
-    </td>
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
 </table>
 
-# 💻 Tech Stack:
-
-### 🚀 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,apache,redis" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,js" />
-</p>
-
-### 📊 Data Science / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
 
 ---
 
