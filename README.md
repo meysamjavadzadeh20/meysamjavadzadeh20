@@ -29,7 +29,7 @@
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br>Laravel</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL</td>
 <td align="center" width="116">
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" width="48" height="48"/><br>Apache
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache.svg" width="48" height="48"/><br>Apache
 </td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/><br>Redis</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python</td>
