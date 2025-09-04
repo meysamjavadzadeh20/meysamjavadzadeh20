@@ -27,8 +27,12 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br>Laravel</td>
+    <td align="center" width="116">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          <br>PHP</td>
+    <td align="center" width="116">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+          <br>Laravel</td>
      <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
