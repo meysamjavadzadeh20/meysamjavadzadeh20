@@ -62,7 +62,9 @@
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48"/><br>Sass</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="48" height="48"/><br>Scikit-learn</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="48" height="48"/><br>NumPy</td>
+    <td align="center" width="116">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
+          <br>NumPy</td>
     <td align="center" width="116">
             <i class="devicon-pandas-plain-wordmark"></i>
           <br>Pandas</td>
