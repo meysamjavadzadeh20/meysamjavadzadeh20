@@ -61,7 +61,7 @@
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/><br>Bootstrap</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS3</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub<br>Github</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>Github</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux</td>
   </tr>
 
