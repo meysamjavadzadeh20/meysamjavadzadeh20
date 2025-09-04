@@ -49,7 +49,7 @@
   <tr>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" width="48" height="48"/><br>Matplotlib</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
-    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><br>GitHub</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" /><br>GitHub</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VSCode</td>
