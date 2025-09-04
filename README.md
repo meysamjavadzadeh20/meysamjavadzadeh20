@@ -23,10 +23,6 @@
 ---
 # 💻 Tech Stack:
 
-### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
-
 <table align="center">
   <tr>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP</td>
