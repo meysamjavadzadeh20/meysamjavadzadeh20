@@ -61,14 +61,18 @@
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48"/><br>Nginx</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48"/><br>Sass</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="48" height="48"/><br>Scikit-learn</td>
+    <td align="center" width="116">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+          <br>Scikit-learn</td>
     <td align="center" width="116">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" />
           <br>NumPy</td>
     <td align="center" width="116">
-            <i class="devicon-pandas-plain-wordmark"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
           <br>Pandas</td>
-    <td align="center" width="116"><img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" width="48" height="48"/><br>Matplotlib</td>
+    <td align="center" width="116">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+          <br>Matplotlib</td>
   </tr>
 </table>
 
