@@ -27,16 +27,25 @@
   <tr>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br>Laravel</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL</td>
+     <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
     <td align="center" width="116"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" /><br>Apache</td>
+    <td align="center" width="116"><a href="#macropower-tech"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></a><br>Python</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/><br>Redis</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"/><br>jQuery</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript</td>
+     <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
   </tr>
 
   <tr>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>PostgreSQL</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML5</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/><br>Bootstrap</td>
@@ -50,7 +59,6 @@
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48"/><br>Nginx</td>
     <td align="center" width="116"><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48"/><br>Sass</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/><br>PyTorch</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="48" height="48"/><br>Scikit-learn</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="48" height="48"/><br>NumPy</td>
     <td align="center" width="116"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="48" height="48"/><br>Pandas</td>
